@@ -1,0 +1,3 @@
+From nginx:latest
+copy html/ /var/www/html
+Expose 80
